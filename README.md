@@ -1,5 +1,7 @@
 # Juniper vs graphql-js default value handling
 
+See https://github.com/graphql-rust/juniper/issues/1073
+
 ## Test Results:
 
 graphql-js:
